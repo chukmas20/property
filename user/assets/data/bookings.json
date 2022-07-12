@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:21.890Z",
+    "updatedAt": "2022-04-16T18:56:21.890Z",
+    "bookHomeId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "home": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "poster": "Barr Magnus",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+      "rent": 0.039448871531492236,
+      "rating": 1.5095123177204128,
+      "location": "lekki",
+      "lat": 6.605874,
+      "lng": 3.349149,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "1",
+      "name": "Vadim",
+      "address": "Abc 1",
+      "lat": 6.5383429,
+      "lng": 3.3543947
+    }
+  },
+  {
+    "id": "2",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:53:32.261Z",
+    "updatedAt": "2022-04-16T18:53:32.261Z",
+    "bookHomeId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "home": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "poster": "Barr Magnus",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+      "rent": 0.039448871531492236,
+      "rating": 1.5095123177204128,
+      "location": "983 Lewis Rapids",
+      "lat": 6.605874,
+      "lng": 3.349149,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "2",
+      "name": "Lukas",
+      "address": "Lithuania 1",
+      "lat": 6.5383429,
+      "lng": 3.3543947
+    }
+  },
+  {
+    "id": "3",
+    "userID": "9b09b087-cf40-41f4-a375-8dc75843a8d1",
+    "status": "NEW",
+    "createdAt": "2022-04-16T18:56:49.713Z",
+    "updatedAt": "2022-04-16T18:56:49.713Z",
+    "bookHomeId": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+    "_version": 1,
+    "_lastChangedAt": 1650135409734,
+    "_deleted": null,
+    "home": {
+      "id": "7d7965f7-1b33-4b8c-9bac-0c22bc905030",
+      "poster": "Barr Magnus",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+      "rent": 0.039448871531492236,
+      "rating": 1.5095123177204128,
+      "location": "983 Lewis Rapids",
+      "lat": 6.605874,
+      "lng": 3.349149,
+      "createdAt": "2022-04-16T12:03:33.225Z",
+      "updatedAt": "2022-04-16T12:05:12.826Z"
+    },
+    "User": {
+      "id": "3",
+      "name": "Alex",
+      "address": "Happy land",
+      "lat": 6.5383429,
+      "lng": 3.3543947
+    }
+  }
+]

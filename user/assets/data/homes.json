@@ -1,0 +1,65 @@
+[{
+  "id": "1",
+  "poster": " Barr Magnus John",
+  "rent": 700000,
+  "rating": 4.0,
+   "location":"festac",
+   "houseType":"Three bedroom apartment with two toilets",
+   "bedRooms":"2",
+   "bathRooms":"2",
+   "description":"Three bedroom apartment with three toilets in the most reserved area in town",
+   "image":"https://propertyng.net/wp-content/uploads/2021/06/CamScanner-06-17-2021-11.41.07-1-1012x720.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "https://propertyng.net/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-02-at-14.59.49-2-1-960x720.jpeg",
+    "https://propertyng.net/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-02-at-14.59.49-3.jpeg"  
+   ]
+}, {
+  "id": "2",
+  "poster": "Mr Michael Ikenna",
+  "rent": 500000,
+  "rating": 4.2,
+   "location":"Egbeda",
+   "houseType":"Three bedroom apartment with 2 toilets",
+   "description":"Three bedroom apartment with three toilets",
+   "bedRooms":"2",
+   "bathRooms":"2",
+   "image":"https://images.unsplash.com/photo-1582407947304-fd86f028f716?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "images": [
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"  
+   ]
+}, {
+  "id": "3",
+  "poster": " Barr Magnus John",
+  "rent": 550000,
+  "rating": 4.0,
+   "location":"Diamond estate Isheri",
+   "houseType":"Two bedroom ensuite apartment ",
+   "description":"Three bedroom apartment with three toilets",
+   "bedRooms":"3",
+   "bathRooms":"2",
+   "image":"https://propertyng.net/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-02-at-14.59.49-864x720.jpeg",
+  "images": [
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"  
+   ]
+}, {
+  "id": "4",
+  "poster": " Shola Ajah",
+  "rent": 800000,
+  "rating": 4.0,
+   "location":"Lekki",
+   "houseType":"One bedroom apartment",
+   "description":"Three bedroom apartment with three toilets",
+   "bedRooms":"1",
+   "bathRooms":"1",
+   "image":"https://propertyng.net/wp-content/uploads/2021/02/05f816f7eb2438-4-bedroom-semi-detached-for-sale-sangotedo-ajah-lagos.jpg",
+  "images": [
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg",
+    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"  
+   ]
+}]
